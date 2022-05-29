@@ -26,6 +26,8 @@ Ultra low cast HDMI Capture Card based on MS2109
 
 Use an EEPROM flasher to flash the firmware before soldering.
 
+![eeprom](Bitmap/EEPROM.png)
+
 ## Links
 
 OSHWHub OpenSource (Chinese): https://oshwhub.com/gloomyghost/yuzuki-hcc
