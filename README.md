@@ -5,7 +5,7 @@ Yuzuki HDMI Capture Card
 
 ## About
 
-Ultra low cast HDMI Capture Card based on MS2109
+Ultra low cost HDMI-USB Video Acquisition (HDMI Capture Card) based on MS2109
 
 - Type C USB2.0 interface
 - full height HDMI
