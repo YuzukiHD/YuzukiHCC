@@ -1,7 +1,7 @@
 # YuzukiHCC
 Yuzuki HDMI Capture Card
 
-![main](bitmap/IMG_5684.JPG)
+![main](Bitmap/IMG_5684.JPG)
 
 ## About
 
