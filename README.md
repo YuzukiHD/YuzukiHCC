@@ -1,6 +1,8 @@
 # YuzukiHCC
 Yuzuki HDMI Capture Card
 
+See also YuzukiLOHCC: Yuzuki Loop Out HDMI Capture Card: https://github.com/YuzukiHD/YuzukiLOHCC
+
 ![main](Bitmap/IMG_5684.JPG)
 
 ## About
